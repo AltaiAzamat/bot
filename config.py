@@ -1,0 +1,5 @@
+from tokenize import Token
+
+
+TOKEN = "5154189562:AAHBjuDY0DhRQlTcRZ1sDbuEbmNNKyO_O1g"
+ADMIN_USERS_ID = '744387403'
