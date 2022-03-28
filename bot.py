@@ -161,7 +161,7 @@ def handle_location(message):
  
 @bot.message_handler(commands= ['leava'])
 def leave_bot(message):
-    bot.send_message(chat_id= message.chat.id, text =" good by", reply_markup= None63) 
+    bot.send_message(chat_id= message.chat.id, text =" good by") 
 
 
 # @bot.message_handler(commands=["admin"]) 
